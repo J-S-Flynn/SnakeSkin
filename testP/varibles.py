@@ -22,26 +22,31 @@ varOne = int(varOne)
 varTwo = int(varTwo)
 
 # addition
-sum = varOne + varTwo
+addition = varOne + varTwo
 
-print('vOne + vTwo = ', sum)
+print('vOne + vTwo = ', addition)
 
 # subtraction
-sum = varOne - varTwo
+subtraction = varOne - varTwo
 
-print('vOne - vTwo = ', sum)
+print('vOne - vTwo = ', subtraction)
 
 # multiplacation
-sum = varOne * varTwo
+product = varOne * varTwo
 
-print('vOne * vTwo = ', sum)
+print('vOne * vTwo = ', product)
 
 # division
-sum = varOne / varTwo
+quationt = varOne / varTwo
 
-print('vOne / vTwo = ', sum)
+print('vOne / vTwo = ', quationt)
 
 # modules
-sum = varOne % varTwo
+remainder = varOne % varTwo
 
-print('vOne % vTwo = ', sum)
+print('vOne % vTwo = ', remainder)
+
+
+print('or all together we have ')
+print("{} + {} = {}".format(varOne, varTwo, addition))
+
