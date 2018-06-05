@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8d24d15-a2bf-4e69-8510-a22104788751" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8d24d15-a2bf-4e69-8510-a22104788751" name="Default" comment="added problem Two calc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +31,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="varibles.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="varibles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testP/varibles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="610">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problemOne.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testP/problemOne.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problemTwoCal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testP/problemTwoCal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -67,12 +85,14 @@
         <option value="$PROJECT_DIR$/testP/HelloWorld.py" />
         <option value="$PROJECT_DIR$/testP/simplie input output.py" />
         <option value="$PROJECT_DIR$/testP/varibles.py" />
+        <option value="$PROJECT_DIR$/testP/problemOne.py" />
+        <option value="$PROJECT_DIR$/testP/problemTwoCal.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2008" />
-    <option name="y" value="44" />
+    <option name="x" value="2073" />
+    <option name="y" value="-4" />
     <option name="width" value="1099" />
     <option name="height" value="744" />
   </component>
@@ -133,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.varibles">
+  <component name="RunManager" selected="Python.problemTwoCal">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SnakeSkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +172,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problemOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SnakeSkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,13 +184,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testP/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testP/problemOne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bloop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problemTwoCal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SnakeSkin" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testP/bloop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testP/problemTwoCal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,19 +245,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.bloop" />
       <item itemvalue="Python.HelloWorld" />
       <item itemvalue="Python.simplie input output" />
       <item itemvalue="Python.varibles" />
+      <item itemvalue="Python.problemOne" />
+      <item itemvalue="Python.problemTwoCal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problemTwoCal" />
+        <item itemvalue="Python.problemOne" />
         <item itemvalue="Python.varibles" />
         <item itemvalue="Python.simplie input output" />
         <item itemvalue="Python.HelloWorld" />
-        <item itemvalue="Python.bloop" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -266,13 +286,49 @@
       <option name="project" value="LOCAL" />
       <updated>1528149123200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added some small var work">
+      <created>1528183809679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528183809679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added some small var work">
+      <created>1528183872742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528183872742</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added problem one">
+      <created>1528184365959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528184365959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added added nots on tuter solution for problem one">
+      <created>1528184612789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528184612789</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added problem Two calc">
+      <created>1528186713392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1528186713392</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1957" y="-4" width="1329" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124905944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11888638" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="R Graphics" />
@@ -299,7 +355,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first file" />
     <MESSAGE value="hellow world works" />
-    <option name="LAST_COMMIT_MESSAGE" value="hellow world works" />
+    <MESSAGE value="added some small var work" />
+    <MESSAGE value="added problem one" />
+    <MESSAGE value="added added nots on tuter solution for problem one" />
+    <MESSAGE value="added problem Two calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="added problem Two calc" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/testing/__init__.py">
@@ -357,10 +417,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testP/problemOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testP/varibles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="610">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testP/problemTwoCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
